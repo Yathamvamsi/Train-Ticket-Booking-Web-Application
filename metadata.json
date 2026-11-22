@@ -1,0 +1,6 @@
+{
+  "name": "RailBook – Train Reservation System",
+  "description": "An interactive train ticket booking web application and comprehensive software testing demonstration platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
